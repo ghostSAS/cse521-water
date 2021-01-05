@@ -6,3 +6,6 @@ Web Console:
 AWS Lambda Function:
 Deploy the two functions to the Lambda function. 
 Add the Database credentials to each file.
+
+Local system / hardware:
+run main.py for runing the hardware
