@@ -33,5 +33,5 @@ CSE521S Project
 http://cpp.moe (will be offline after the beginning of the next semester)
 
 
-## Demo video
+## Final demo video
 https://youtu.be/C6JYZ_s9vHU
