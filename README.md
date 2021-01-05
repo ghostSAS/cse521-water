@@ -30,8 +30,8 @@ CSE521S Project
 
 
 ## Website
-[http://cpp.moe][PlDb] (will be offline after the beginning of the next semester)
+[http://cpp.moe] (will be offline after the beginning of the next semester)
 
 
 ## Demo video
-[https://youtu.be/C6JYZ_s9vHU][PlDb]
+[https://youtu.be/C6JYZ_s9vHU]
