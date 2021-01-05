@@ -16,6 +16,9 @@ CSE521S Project
 * **local_water_pump** achieves the 
   * sensor reading for every second
   * directly read the sensor data and decide to active the pump or not
+  
+ 
+
  
 ## Requirements: 
 1. Raspberry Pi with GPIO
