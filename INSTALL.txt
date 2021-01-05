@@ -9,3 +9,6 @@ Backend:
 2. Upload content of 'Backend' to web directory
 3. Upload the pub_topic.py to a desired location and modify the file path in ConsoleController.php(Be sure to add your own ASW IoT certifications)
 4. Ready to use
+
+Hardware:
+can be runed on any python evnironment. Please install all dependencies before hand. 
